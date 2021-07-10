@@ -44,7 +44,12 @@ trialnum  (1 up to 120), colourtext (the word shown in the trial), colourname (c
 
 
  ## Images 
-
+<img width="1435" alt="Screenshot 2021-07-10 at 00 04 56" src="https://user-images.githubusercontent.com/87214421/125147924-ad740200-e126-11eb-9789-57051ce977e8.png">
+<img width="670" alt="Screenshot 2021-07-10 at 00 06 10" src="https://user-images.githubusercontent.com/87214421/125147927-b1078900-e126-11eb-8e64-904cf601d171.png">
+<img width="819" alt="Screenshot 2021-07-10 at 00 06 37" src="https://user-images.githubusercontent.com/87214421/125147928-b1a01f80-e126-11eb-90cb-c2c3fb4d7cb1.png">
+<img width="358" alt="Screenshot 2021-07-10 at 00 07 00" src="https://user-images.githubusercontent.com/87214421/125147930-b238b600-e126-11eb-8983-970bb721f8e1.png">
+<img width="828" alt="Screenshot 2021-07-10 at 00 08 06" src="https://user-images.githubusercontent.com/87214421/125147931-b238b600-e126-11eb-84f1-f01a9ca3787f.png">
+<img width="213" alt="Screenshot 2021-07-10 at 01 58 05" src="https://user-images.githubusercontent.com/87214421/125147933-b2d14c80-e126-11eb-9af4-0536def59507.png">
 
  
 ## Analyse
