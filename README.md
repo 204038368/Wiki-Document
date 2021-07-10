@@ -44,7 +44,19 @@ trialnum  (1 up to 120), colourtext (the word shown in the trial), colourname (c
 
 
  ## Images 
-
+<img width="1435" alt="Screenshot 2021-07-10 at 00 04 56" src="https://user-images.githubusercontent.com/87214421/125152506-ec18b500-e144-11eb-91a3-e4d975511206.png">
+<img width="670" alt="Screenshot 2021-07-10 at 00 06 10" src="https://user-images.githubusercontent.com/87214421/125152511-f044d280-e144-11eb-9c18-e9cbb5b113fa.png">
+<img width="819" alt="Screenshot 2021-07-10 at 00 06 37" src="https://user-images.githubusercontent.com/87214421/125152513-f044d280-e144-11eb-8389-013a0a38029e.png">
+<img width="358" alt="Screenshot 2021-07-10 at 00 07 00" src="https://user-images.githubusercontent.com/87214421/125152514-f0dd6900-e144-11eb-969d-2923128dd387.png">
+<img width="828" alt="Screenshot 2021-07-10 at 00 08 06" src="https://user-images.githubusercontent.com/87214421/125152515-f0dd6900-e144-11eb-9ce5-23bead7087bb.png">
+<img width="309" alt="Screenshot 2021-07-10 at 01 57 25" src="https://user-images.githubusercontent.com/87214421/125152516-f175ff80-e144-11eb-81bc-f88db3d75892.png">
+<img width="213" alt="Screenshot 2021-07-10 at 01 58 05" src="https://user-images.githubusercontent.com/87214421/125152517-f175ff80-e144-11eb-9948-070b5c1e46da.png">
+<img width="885" alt="Screenshot 2021-07-10 at 02 44 21" src="https://user-images.githubusercontent.com/87214421/125152519-f175ff80-e144-11eb-88d2-9b1b3f7ad4c2.png">
+<img width="882" alt="Screenshot 2021-07-10 at 02 44 28" src="https://user-images.githubusercontent.com/87214421/125152520-f20e9600-e144-11eb-8f28-fbeb79bb3b4f.png">
+<img width="875" alt="Screenshot 2021-07-10 at 02 44 34" src="https://user-images.githubusercontent.com/87214421/125152521-f20e9600-e144-11eb-9f7a-b41c8f719f2e.png">
+<img width="365" alt="Screenshot 2021-07-10 at 05 55 54" src="https://user-images.githubusercontent.com/87214421/125152522-f2a72c80-e144-11eb-9c8f-a61e6f7da735.png">
+<img width="277" alt="Screenshot 2021-07-10 at 05 56 33" src="https://user-images.githubusercontent.com/87214421/125152523-f2a72c80-e144-11eb-91c4-a2f4649e61e5.png">
+<img width="976" alt="Screenshot 2021-07-10 at 06 05 12" src="https://user-images.githubusercontent.com/87214421/125152525-f33fc300-e144-11eb-98c4-11806d221977.png">
 
  
 ## Analyse
