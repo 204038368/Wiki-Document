@@ -25,7 +25,7 @@ Ensure the participant understands the task. Check that your experiment code is 
 To run this project:
 We must ensure Psychopy is downloaded for the user.
 To open the experiment code, open Psychopy v3.0 (click the icon). Click 'open' and navigate to:
-File > Open > Pin_Assessment2 > section_a.py.
+File > Open > Pin_Assessment2 > section_A.py.
 Once loaded, click the green 'RUN' arrow at the top of the screen when you are ready to start the experiment.
 Participants should be told the relevant information, via the information sheet which should have been given to them prior to beginning the experiment. Participants should be fully aware of the experiment taking place and that they understand their role in the relevant task.
 Before running this experiment, participants will be required to input some information (participant ID) which should be given prior to the experiment.
@@ -59,8 +59,8 @@ Once the experiment has ended and it is time to run the code for analysing the g
 To analyse this data:
 Again, we must ensure Psychopy is downloaded for the user.
 To open the experiment code, open Psychopy v3.0 (click the icon). Click 'open' and navigate to:
-File > Open > Pin_Assessment2 > section_b.py
+File > Open > Pin_Assessment2 > section_B.py
 Once loaded, click the green 'RUN' arrow at the top of the screen when you are ready to analyse the results of the data in a graph using matplotlib.pyplot.
 The script itself, is importing the csv files created from the experiment and plotting it on a graph. This script is usuable with section_a.py as the stimulus presentation and analysis code will be working together. 
 
-From here, the code will plot the distribution means for the congruent and incongruent conditions, utilising the most appropriate form of plot for the data. This graph will illustrate a neatly formatted table and contain the following columns: Participant, Congruent: Mean (reaction time), Stddev (reaction time), % correct. Incongruent: Mean (reaction time), Stddev (Reaction time), % correct. Once run, a graph/plot will appear with the relevant data. The plot will show an appropriate title matching the experiment and the x and y axes will be easily readable for analysing the data. From here, the script will have saved that image file named 'group.png.' When writing up a report, this data will show the mean and standard deviation reaction times and how often the participant selected the correct key in association with the congruent or incongruent word presentations. 
+From here, the code will plot the distribution means for the congruent and incongruent conditions, utilising the most appropriate form of plot for the data. This graph will illustrate a neatly formatted table and contain the following columns: Participant, Congruent and Incongruent mean response times. Once run, a graph/plot will appear with the relevant data. The plot will show an appropriate title matching the experiment and the x (participant) and y (mean response times) axis will be easily readable for analysing the data. From here, the script will have saved that image file named 'group.png.' When writing up a report, this data will show the mean reaction times put the participant in a bin or bar of the graph in association with the congruent or incongruent word presentations.
